@@ -9,12 +9,6 @@ Aprendizaje
 
 Actividad en clases 4.2 Desarrollo de Software para Hardare, Junio 2026
 =======
-# Actividad Base: Flask + DataXY
-
-Este repositorio es un ejemplo inicial para practicar con **Flask** y **GitHub**.
-La intensión es que los estudiantes lo usen como punto de partida, lo modifiquen y luego lo suban a su propio repositorio.
-
----
 
 ## Objetivo
 
@@ -22,14 +16,6 @@ La intensión es que los estudiantes lo usen como punto de partida, lo modifique
 * Ejecutar Flask y recibir datos **x, y** desde una aplicación móvil
 * Visualizar datos en una página HTML sencilla
 * Subir cambios a GitHub
-
----
-
-## Requisitos
-
-* Entorno para Python y Flask instalados
-* Cuenta en GitHub
-* Aplicación móvil (APK) para enviar datos
 
 ---
 
@@ -112,8 +98,8 @@ Cada estudiante debe:
 
 ## Notas
 
-* Este README es solo una guía básica.
-* El trabajo final depende de cada estudiante y de cómo adapte el ejercicio.
+* Se modifica repositorio base para conseguir una vista 5x5
+* se cambia estructura de interfaz web
 
 ---
 >>>>>>> 242b2a9 (Subiendo contenido copiado de repositorio base)
