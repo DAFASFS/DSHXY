@@ -88,18 +88,10 @@ http://127.0.0.1:5000
 
 ## Inicio del ejercicio
 
-Cada estudiante debe:
+* Se modifica matriz base por una 5x5
+* Se cambia formato de vista interfaz web
+* se añaden 2 pestañas extra de facil acceso mediante botones en interfaz web
 
-* Crear una pestaña en Flask que muestre un dato recibido
-* Modificar el HTML para encender una celda en un rectángulo **2x2** según los valores **x, y**
-* Subir su versión modificada a su propio repositorio
-
----
-
-## Notas
-
-* Se modifica repositorio base para conseguir una vista 5x5
-* se cambia estructura de interfaz web
 
 ---
 >>>>>>> 242b2a9 (Subiendo contenido copiado de repositorio base)
